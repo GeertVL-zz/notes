@@ -1,0 +1,29 @@
+# 27 februari 2018
+
+## CMBPOC-308
+- Schrijven van de unit tests om de posts van de api te testen binnen authorizatie
+- Refactoring van de HttpClient calls om DRY te vermijden.
+- Aanvullen integratie tests voor "leden signalitiek" en "leden financieel".
+
+## CMBPOC-330
+- Uitgeschreven hoe men de angular package voor identityserver gebruikt en implementeert. 
+- Dit samen met welke configuratiemogelijkheden er zijn.
+
+## CMBPOC-164
+- De loggroupen aangepast waar de logging van zowel de api als de sts naartoe loggen op AWS Cloudwatch.
+
+
+# 28 februari 2018
+
+## CMBPOC-349
+- Functionele uitleg gekregen van het zoekscherm door Tom. 
+- Na het runnen van de end-to-end testen bleek er wat fouten te zijn in de Franse vertalingen en die heb ik opgelost.
+- binnenhalen API branch en uitproberen versie
+- onderzoek ngrx store en wat de impact is in het project
+- opzet zoekscherm zonder bindings
+
+
+
+# ????
+- Ik heb nog geen nummer voor het bekijken van de testcode. (Vragen aan de Wim)
+- 211 branch heb ik nodig.
